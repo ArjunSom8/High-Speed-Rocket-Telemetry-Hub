@@ -75,12 +75,6 @@ The ground station receives and displays the telemetry data. It is a desktop app
       * **pyserial:** `pip install pyserial`
       * **pyqtgraph:** `pip install pyqtgraph`
 
-You can install all the Python dependencies by running:
-
-```bash
-pip install -r requirements.txt
-```
-
 -----
 
 ## ⚙️ Setup and Installation
