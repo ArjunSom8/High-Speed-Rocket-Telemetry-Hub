@@ -13,9 +13,6 @@ A high-speed, two-way telemetry system for student-built rockets, featuring:
 
 ```
 .
-├── Capstone Project Report Realest.pdf
-└── Projects/
-    └── Build-a-Rocket spacc-gui main Rocket Club/
         ├── ESP32/
         │   └── ESP-Starter/
         │       ├── ESP-Starter.ino       # ESP32 flight code + helpers
